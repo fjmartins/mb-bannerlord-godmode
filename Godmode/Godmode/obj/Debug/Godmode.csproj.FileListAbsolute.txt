@@ -1,0 +1,7 @@
+C:\Users\FJ\Documents\Github\aa\mb-bannerlord-godmode\Build\Godmode\bin\Win64_Shipping_Client\Godmode.dll
+C:\Users\FJ\Documents\Github\aa\mb-bannerlord-godmode\Build\Godmode\bin\Win64_Shipping_Client\Godmode.pdb
+C:\Users\FJ\Documents\Github\aa\mb-bannerlord-godmode\Godmode\Godmode\obj\Debug\Godmode.csprojAssemblyReference.cache
+C:\Users\FJ\Documents\Github\aa\mb-bannerlord-godmode\Godmode\Godmode\obj\Debug\Godmode.csproj.CoreCompileInputs.cache
+C:\Users\FJ\Documents\Github\aa\mb-bannerlord-godmode\Godmode\Godmode\obj\Debug\Godmode.csproj.CopyComplete
+C:\Users\FJ\Documents\Github\aa\mb-bannerlord-godmode\Godmode\Godmode\obj\Debug\Godmode.dll
+C:\Users\FJ\Documents\Github\aa\mb-bannerlord-godmode\Godmode\Godmode\obj\Debug\Godmode.pdb

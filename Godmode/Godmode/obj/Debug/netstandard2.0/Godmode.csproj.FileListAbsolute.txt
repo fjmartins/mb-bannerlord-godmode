@@ -1,0 +1,9 @@
+C:\Users\FJ\Documents\Github\mb-bannerlord-godmode\Godmode\Godmode\obj\Debug\netstandard2.0\Godmode.csproj.CoreCompileInputs.cache
+C:\Users\FJ\Documents\Github\mb-bannerlord-godmode\Godmode\Godmode\obj\Debug\netstandard2.0\Godmode.AssemblyInfoInputs.cache
+C:\Users\FJ\Documents\Github\mb-bannerlord-godmode\Godmode\Godmode\obj\Debug\netstandard2.0\Godmode.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Godmode\bin\Win64_Shipping_Client\netstandard2.0\Godmode.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Godmode\bin\Win64_Shipping_Client\netstandard2.0\Godmode.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Godmode\bin\Win64_Shipping_Client\netstandard2.0\Godmode.pdb
+C:\Users\FJ\Documents\Github\mb-bannerlord-godmode\Godmode\Godmode\obj\Debug\netstandard2.0\Godmode.csproj.CopyComplete
+C:\Users\FJ\Documents\Github\mb-bannerlord-godmode\Godmode\Godmode\obj\Debug\netstandard2.0\Godmode.dll
+C:\Users\FJ\Documents\Github\mb-bannerlord-godmode\Godmode\Godmode\obj\Debug\netstandard2.0\Godmode.pdb
